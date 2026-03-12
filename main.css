@@ -3,16 +3,21 @@ body{
     background-image: url("");
 }
 h1{
-    color: rgb(95, 91, 143);
+    color: #5f5b8f;
 }
 
 .container{
     width:450px;
-    height: 600px;
+    height: 300px;
     margin: 0 auto;
-    background-color:red;
+    background-color:#d1cfe8;
     /* where to place your card image */
     background-image: url("");
     border-radius: 10px;
     margin-top: 100px;
+}
+
+.text-container{
+    margin-top: 50px;
+    margin-left: 50px;
 }
